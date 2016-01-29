@@ -6,5 +6,6 @@ This is a repository in which a member creates a branch and uploads a about hims
 
 Name 			| 	Profile Link
 ------------ 	| -------------
-Arvind Iyer		| [Arvindiyer](https://github.com/arvindiyer)  
+Arvind Iyer		| [Arvindiyer](https://github.com/arvindiyer) 
+Vishwas Patel 		| [vrp97](https://github.com/vrp97) 
 -Team Learnovate   
